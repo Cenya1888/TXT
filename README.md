@@ -78,8 +78,9 @@
 
 [в начало](#go)
 
-## Bug_report.txt
+## **Bug_report.txt**
 
 ![Alt text](image.png)
 
 [в начало](#go)
+
